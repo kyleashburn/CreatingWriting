@@ -12,7 +12,7 @@ This folder collects all works set in the Goblin Court universe. For now, it lin
   A goblin judge presides over a fraudulent holy water case that spirals into divine interrogation and courtroom chaos.
 
 - [A Goblin’s Guide to Business Analysis](../../short_stories/A_Goblins_Guide_to_Business_Analysis.md)
-  A light-hearted fantasy guide to business analysis with a delightful cast of characters any BA worth their salt would recognize. 
+  A light-hearted fantasy guide to business analysis with a delightful cast of characters any BA worth their salt would recognize. (WIP that's not uploaded yet)
 
 ---
 
